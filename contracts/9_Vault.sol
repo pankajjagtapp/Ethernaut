@@ -1,0 +1,8 @@
+/* 
+
+Instance Address => 0xe24db59d5d4a105ada02FEB542d8c2EAFb45a9e4
+Password = 0x412076657279207374726f6e67207365637265742070617373776f7264203a29
+
+Command =>
+await web3.eth.getStorageAt("0xe24db59d5d4a105ada02FEB542d8c2EAFb45a9e4", 1);
+*/
